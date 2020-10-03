@@ -3,7 +3,7 @@ import datas from '../helpers/data/messageData';
 import display from './displayMessages';
 import selectUser from './selectUser';
 import emoji from './emojis';
-import APIKEYS from './apikeys';
+import APIKEYS from './apiKeys';
 
 const fetch = require('node-fetch');
 
